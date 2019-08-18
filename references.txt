@@ -1,0 +1,9 @@
+ Academic honesty certification:
+  Written/online sources used:
+    Szeliski, "Computer Vision: Algorithms and Applications" 4.1.2
+  Help obtained
+    None
+  Our initials below confirm that the above list of sources
+  is complete AND that I/we have not talked to anyone else
+  (e.g., CSC 262 students) about the solution to this problem
+  Initials:  LKNS, TL, HL
